@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Chen Wu's home page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Chen Wu"
+description              : &description "A free database researcher"
 url                      : https://rauthy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : rauthy/rauthy.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chen Wu"
   avatar           : "picture-in-oceanbase.jpg"
-  bio              : "A database researcher and engineer"
-  location         : "Wu han"
+  bio              : "A free database researcher"
+  location         : # "https://www.google.com/maps/place/Wuhan+University/@30.5360531,114.3621332,17z/data=!3m1!4b1!4m6!3m5!1s0x342ea56c78f673d3:0x3a7b780f979236!8m2!3d30.5360485!4d114.3643219!16zL20vMDQxOXJm"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
