@@ -12,29 +12,24 @@ redirect_from:
 Education
 ======
 * B.S. in Software engineering, Wuhan University, 2016-2020
-* M.S. in SOftware engineering, Wuhan University, 2020-now
+* M.S. in Software engineering, Wuhan University, 2020-now
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.7-2022.9: Academic Cooperation Intern
+  * OceanBase, Ant Group
+  * Project: Hybrid Storage Engine for Large-scale Bus Data
+  * Supervisor: Professor [Sheng Wang](http://shengwang.site/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Key-value Storage (LevelDB)
+* Programming
+  * Java
+  * C++
+* Mathematical Analysis
 
 Publications
 ======

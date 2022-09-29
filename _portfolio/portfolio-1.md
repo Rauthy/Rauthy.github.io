@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Work as an intern in OceanBase"
+excerpt: "Work as a intern in OceanBase<br/><img src='/images/picture-in-oceanbase.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This photo was taken when I worked as an academic cooperation intern in OceanBase, Ant Group between 2022.7 to 2022.9. 
