@@ -21,7 +21,7 @@ Research Area
 
 Contact Me
 ======
-If you have any interest in my research area, please feel free to contact me by [github](https://github.com/whuwuchen) or [email](kerinchanser@gmail.com).
+If you have any interest in my research area, please feel free to contact me by [github](https://github.com/whuwuchen) or [kerinchanser@gmail.com](kerinchanser@gmail.com).
 
 
 
